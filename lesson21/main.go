@@ -48,8 +48,8 @@ func main() {
 	}
 
 	m := map[string]int{"apple": 100, "bananna": 300}
-	for key,v := range m{
-		fmt.Printf("%s:%d\n",key,v)
+	for key, v := range m {
+		fmt.Printf("%s:%d\n", key, v)
 	}
 
 }
