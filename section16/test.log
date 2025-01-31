@@ -1,0 +1,19 @@
+2025/01/22 10:47:22 B
+2025/01/22 10:47:22.125621 B
+10:47:22 main.go:33: C
+{LOG}2025/01/22 10:47:22 D
+2025/01/22 10:49:15 B
+2025/01/22 10:49:15.244061 B
+10:49:15 main.go:33: C
+{LOG}2025/01/22 10:49:15 D
+2025/01/22 10:50:04 A
+2025/01/22 10:50:04.404199 B
+10:50:04 main.go:33: C
+{LOG}2025/01/22 10:50:04 D
+2025/01/22 10:58:54 main.go:17: message
+2025/01/22 11:00:59 main.go:17: message
+2025/01/22 11:01:05 main.go:17: message
+2025/01/22 11:02:32 main.go:17: message
+2025/01/22 11:02:32 main.go:22: Exit open fdasfdsa: The system cannot find the file specified.
+2025/01/22 11:03:02 main.go:17: message
+2025/01/22 11:03:02 main.go:22: !!Exit open fdasfdsa: The system cannot find the file specified.
